@@ -1,0 +1,24 @@
+07/10/2024 - PLANNING
+
+- análise dos dados e seleção dos insights ();
+- INSIGHTS:
+	DESENHO DA PISTA:
+		pontos em que a marcha foi trocada (gear) 
+		pontos em que o carro correu nos limites da pista (wheel_on_rumble_strips)
+
+	TIMELINE:
+		velocidade do motor (current_engine_rpm)
+		velocidade do veiculo (speed)
+		torque (torque)
+		gasosa (fuel)
+		pedal de aceleração (acceleration)
+		pedal de freio (brake)
+		movimento do volante (steer)
+
+	FILTERS:
+		pegar dados de uma volta específica
+		tabela de comparação entre voltas
+		comparação de timelines entre duas voltas específicas
+		criar correlações entre variáveis
+		
+	
