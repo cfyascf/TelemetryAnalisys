@@ -20,5 +20,8 @@
 		tabela de comparação entre voltas
 		comparação de timelines entre duas voltas específicas
 		criar correlações entre variáveis
+
+
+        
 		
 	
